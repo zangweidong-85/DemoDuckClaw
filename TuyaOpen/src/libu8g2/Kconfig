@@ -1,3 +1,0 @@
-config ENABLE_LIBU8G2
-  bool "configure enable/disable libu8g2"
-	default n
